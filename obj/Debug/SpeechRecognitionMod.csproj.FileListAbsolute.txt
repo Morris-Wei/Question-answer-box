@@ -1,0 +1,9 @@
+E:\C#程序\SpeechRecognitionMod\SpeechRecognitionMod\bin\Debug\SpeechRecognitionMod.exe.config
+E:\C#程序\SpeechRecognitionMod\SpeechRecognitionMod\bin\Debug\SpeechRecognitionMod.exe
+E:\C#程序\SpeechRecognitionMod\SpeechRecognitionMod\bin\Debug\SpeechRecognitionMod.pdb
+E:\C#程序\SpeechRecognitionMod\SpeechRecognitionMod\obj\Debug\SpeechRecognitionMod.csprojResolveAssemblyReference.cache
+E:\C#程序\SpeechRecognitionMod\SpeechRecognitionMod\obj\Debug\SpeechRecognitionMod.Form1.resources
+E:\C#程序\SpeechRecognitionMod\SpeechRecognitionMod\obj\Debug\SpeechRecognitionMod.Properties.Resources.resources
+E:\C#程序\SpeechRecognitionMod\SpeechRecognitionMod\obj\Debug\SpeechRecognitionMod.csproj.GenerateResource.Cache
+E:\C#程序\SpeechRecognitionMod\SpeechRecognitionMod\obj\Debug\SpeechRecognitionMod.exe
+E:\C#程序\SpeechRecognitionMod\SpeechRecognitionMod\obj\Debug\SpeechRecognitionMod.pdb
